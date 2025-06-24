@@ -1,11 +1,13 @@
 # Ignore virtual environments
 venv/
 
-# Ignore Python cache and system files
+# Python cache
 __pycache__/
 *.pyc
+
+# macOS system files
 .DS_Store
 
-# VSCode and notebook files
+# VSCode & Jupyter
 .vscode/
 .ipynb_checkpoints/
