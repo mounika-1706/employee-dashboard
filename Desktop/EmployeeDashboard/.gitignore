@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# VSCode and Jupyter folders
+.vscode/
+.ipynb_checkpoints/
